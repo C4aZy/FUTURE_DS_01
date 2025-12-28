@@ -1,0 +1,5 @@
+Google Looker Studio Dashboard Link:
+https://lookerstudio.google.com/reporting/bc4e128b-92cb-4c5c-a6d4-47b8e1bbe9c0
+
+Description:
+This dashboard presents an analysis of e-commerce performance for October 2019, including revenue trends, category-wise performance, conversion rates, and customer behavior insights based on an aggregated dataset.
